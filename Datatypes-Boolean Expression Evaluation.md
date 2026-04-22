@@ -15,12 +15,10 @@ To write a Python program that evaluates and prints the results of boolean and a
 8. Print the value of `d` with the label "d:".
 
 ## 💻 Program
-# Boolean expressions
 print("Boolean Expressions:")
 print("True and False =", True and False)
 print("True or False =", True or False)
 print("not True =", not True)
-# Arithmetic expressions using True (1) and False (0)
 print("\nArithmetic Expressions:")
 print("True + True =", True + True)       
 print("True + False =", True + False)     
